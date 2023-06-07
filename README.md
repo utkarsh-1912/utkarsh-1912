@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Utkarsh Gupta
-- 👀 I’m interested in Web Development along with NLP and AR.
+- 👀 I’m interested in Web Development along with ML and NLP.
 - 🌱 I’m currently learning Bots development for commercial sites.
 - 💞️ I’m looking to collaborate on open-source web development projects with MERN stack.
 - 📫 Contact me : utkarsh.19.12.01@gmail.com
