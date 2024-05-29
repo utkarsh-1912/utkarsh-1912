@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Utkarsh Gupta
-- 👀 I’m interested in Web Development along with ML and NLP.
+- 👀 I’m interested in Data Science and Deep learning, especially NLP.
 - 🌱 I’m currently learning Bots development for commercial sites.
-- 💞️ I’m looking to collaborate on open-source web development projects with MERN stack.
-- 📫 Contact me : utkarsh.19.12.01@gmail.com
+- 💞️ I want to collaborate on open-source module development projects.
+- 📫 Contact me: utkarsh.19.12.01@gmail.com
 
 [![@utkarsh1912's Holopin board](https://holopin.me/utkarsh1912)](https://holopin.io/@utkarsh1912)
 <!---
