@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Utkarsh Gupta
-- 👀 I’m interested in Data Science and Deep learning, especially NLP.
-- 🌱 I’m currently learning Bots development for commercial sites.
+- 👀 I’m interested in Agentic AI and Deep learning, especially SLMs.
+- 🌱 I’m currently learning app development with SLMs for commercial sites.
 - 💞️ I want to collaborate on open-source module development projects.
 - 📫 Contact me: utkarsh.19.12.01@gmail.com
 
