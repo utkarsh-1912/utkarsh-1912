@@ -53,20 +53,6 @@ I'm a Software Engineer working on **electronic trading systems**, with a growin
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/utkarsh-1912"
-    alt="Utkarsh Gupta's GitHub contribution graph"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=utkarsh-1912&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
 ---
 
 ## 🤝 Connect With Me
